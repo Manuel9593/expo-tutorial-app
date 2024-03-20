@@ -6,11 +6,12 @@
       "~/*": [
         "./*"
       ]
-    }
+    },
+    "typeRoots": ["./types"]
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     "global.d.ts"
-  ]
+  ],
 }
